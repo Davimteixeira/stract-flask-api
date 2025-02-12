@@ -18,7 +18,6 @@ Este projeto é um servidor local em **Python + Flask** que consome a API da **S
 - **Flask** (para a API)
 - **Requests** (para consumir a API externa)
 - **CSV e io** (para geração de relatórios)
-- **Pandas** (para agregação de dados)
 
 ---
 
