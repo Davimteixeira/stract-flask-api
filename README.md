@@ -1,4 +1,4 @@
-# API de Relatórios - Processo Seletivo Stract
+# API de Relatórios 
 
 ## 📌 Sobre o Projeto
 
